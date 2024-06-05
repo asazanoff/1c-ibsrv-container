@@ -1,0 +1,8 @@
+services:
+  1c-money:
+    container_name: 1c-money
+    image: 27abb7c3dc5f.....d99e652d
+    volumes:
+      - ./db-data:/fs-data/db-data
+    ports:
+      - 8314:8314
