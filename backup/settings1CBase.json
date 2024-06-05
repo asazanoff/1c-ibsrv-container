@@ -1,0 +1,11 @@
+{
+  "dbChangedDateTime": "---",
+  "oneDrivePath": "/backup/money/",
+  "originalPath": "~/1c-money/db-data/1Cv8.1CD",
+  "refresh_token": "",
+  "access_token": "",
+  "clientId": "",
+  "appKey": "",
+  "redirectUri": "http://localhost/login",
+  "logFilePath": "~/backup/backup.log"
+}
